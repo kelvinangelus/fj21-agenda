@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/kelvi/OneDrive/Documentos/NetBeansProjects/fj21-agenda/src/java/br/com/caelum/servlet/AdicionaContatoServlet.java</file>
+            <file>file:/C:/Users/kelvi/OneDrive/Documentos/NetBeansProjects/fj21-agenda/src/java/br/com/caelum/agenda/filtro/FiltroTempoDeExecução.java</file>
+            <file>file:/C:/Users/kelvi/OneDrive/Documentos/NetBeansProjects/fj21-agenda/src/java/br/com/caelum/agenda/filtro/FiltroConexao.java</file>
+            <file>file:/C:/Users/kelvi/OneDrive/Documentos/NetBeansProjects/fj21-agenda/src/java/br/com/caelum/jdbc/dao/ContatoDao.java</file>
+            <file>file:/C:/Users/kelvi/OneDrive/Documentos/NetBeansProjects/fj21-agenda/src/java/br/com/caelum/mvc/logica/RemoveContatoLogica.java</file>
+        </group>
+    </open-files>
+</project-private>

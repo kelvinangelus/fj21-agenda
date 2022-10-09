@@ -1,0 +1,10 @@
+Melhorias:
+
+- páginas no web/inf.jsp não funciona
+
+- Passar o objeto contato em vez das propriedades do objeto separadamente
+para alterar um contato em lista-contatos.jsp
+
+- Fazer o adiciona-contato.jsp e altera-contato.jsp requisitarem não para
+AdicionaContatoLogica.java e AlteraContatoLogica.java, respectivamente, mas sim para
+mvc?logica=AdicionaContatoLogica e mvc?logica=AlteraContatoLogica
